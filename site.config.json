@@ -1,0 +1,55 @@
+{
+  "business_name": "2B Construction LLC",
+  "tagline": "North Idaho Excavation & Septic Specialists",
+  "wp_title_tagline": "",
+  "owner_name": "",
+  "domain": "www.2bconstruction208.com",
+  "skin": "trades-authority",
+  "phone": "(208) 691-5181",
+  "address": {
+    "street": "",
+    "city": "Athol",
+    "state": "ID",
+    "zip": ""
+  },
+  "city": "Athol",
+  "state": "ID",
+  "license": "",
+  "gbp_primary_category": "Excavating contractor",
+  "emergency_available": false,
+  "hours": "Mon–Fri 7am–6pm, Sat 8am–12pm",
+  "meta_description_default": "2B Construction LLC serves North Idaho with excavation, septic, and site prep services. Based in Athol, ID — call for a free estimate.",
+  "stats": {
+    "years_in_business": null,
+    "jobs_completed": null,
+    "avg_rating": null,
+    "review_count": null,
+    "response_time": null
+  },
+  "social": {
+    "facebook": null,
+    "instagram": null,
+    "google": null
+  },
+  "primary_color": "#d97706",
+  "hubs": [],
+  "services": [],
+  "service_areas": [
+    "Athol",
+    "Hayden",
+    "Coeur d'Alene",
+    "Post Falls",
+    "Spirit Lake",
+    "Bayview",
+    "Sandpoint",
+    "Sagle",
+    "Cocolalla",
+    "Rathdrum",
+    "Dalton Gardens",
+    "Priest River"
+  ],
+  "differentiators": [],
+  "process_steps": [],
+  "testimonials": [],
+  "gallery_items": []
+}
