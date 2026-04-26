@@ -16,6 +16,10 @@
   "state": "ID",
   "license": "",
   "gbp_primary_category": "Excavating contractor",
+  "gbp_secondary_categories": [
+    "Septic system service",
+    "Utility contractor"
+  ],
   "emergency_available": false,
   "hours": "",
   "meta_description_default": "",
@@ -31,8 +35,65 @@
     "instagram": null,
     "google": null
   },
-  "hubs": [],
-  "services": [],
+  "hubs": [
+    {
+      "title": "Excavating Contractor",
+      "slug": "excavating-contractor",
+      "description": "residential site prep and small commercial excavation",
+      "image": {
+        "url": null,
+        "alt": "Excavating Contractor"
+      },
+      "ctaLabel": "Learn More"
+    },
+    {
+      "title": "Septic System Service",
+      "slug": "septic-system-service",
+      "description": "licensed complex septic for lakefront and hillside properties",
+      "image": {
+        "url": null,
+        "alt": "Septic System Service"
+      },
+      "ctaLabel": "Learn More"
+    }
+  ],
+  "services": [
+    {
+      "title": "Foundation Excavation",
+      "slug": "foundation-excavation",
+      "angle": "precision digs for custom homes on North Idaho hillside and lakefront lots"
+    },
+    {
+      "title": "Site Preparation",
+      "slug": "site-preparation",
+      "angle": "full house site prep from raw land to pour-ready"
+    },
+    {
+      "title": "Land Clearing",
+      "slug": "land-clearing",
+      "angle": "timber and brush clearing with tilt rotator on steep terrain"
+    },
+    {
+      "title": "Grading Services",
+      "slug": "grading-services",
+      "angle": "precision grading for drainage and foundations"
+    },
+    {
+      "title": "Septic System Installation",
+      "slug": "septic-installation",
+      "angle": "new installs from design to inspection across Kootenai and Bonner Counties"
+    },
+    {
+      "title": "Septic System Repair & Replacement",
+      "slug": "septic-repair-replacement",
+      "angle": "emergency-ready repair and full system replacement"
+    },
+    {
+      "title": "Septic Upgrade / Capacity Increase",
+      "slug": "septic-upgrade",
+      "angle": "ADU and Airbnb conversions requiring capacity upgrades"
+    }
+  ],
   "service_areas": [
     "Athol",
     "Hayden",
@@ -47,7 +108,13 @@
     "Dalton Gardens",
     "Priest River"
   ],
-  "differentiators": [],
+  "differentiators": [
+    "Tilt rotator attachment on excavator enables precision work on steep, tight lakefront lots that most contractors cannot access efficiently",
+    "35+ years of civil construction and project management experience at large scale",
+    "Licensed for both simple and complex septic systems—not all contractors hold complex system licenses",
+    "Uses exclusively concrete septic tanks for superior durability versus plastic alternatives",
+    "Quality finish work recognized by downstream trades; concrete contractors specifically seek out 2B-prepped foundations"
+  ],
   "process_steps": [],
   "testimonials": [],
   "gallery_items": [],
