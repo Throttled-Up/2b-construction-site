@@ -92,7 +92,12 @@ export async function generateMetadata() {
 
 export default async function HomePage() {
   const config   = getSiteConfig();
-  const heroImage = config.hero_image ?? null;
+
+  // Normalize hero_image — site.config.json stores it as a string URL; Hero expects { url, alt }
+  const heroRaw   = config.hero_image ?? null;
+  const heroImage = heroRaw
+    ? (typeof heroRaw === 'object' ? heroRaw : { url: heroRaw, alt: config.business_name ?? '' })
+    : null;
 
   // Blueprint-driven layout sequence — falls back to DEFAULT_SEQUENCE
   const blueprint = config.design_blueprint ?? null;
@@ -140,9 +145,11 @@ export default async function HomePage() {
       {sequence.map(({ section, variant }, i) => {
         // Special case: MDX body from content engine
         if (section === 'content_body') {
-          return mdxContent
-            ? <div key={`content_body-${i}`}>{mdxContent}</div>
-            : null;
+          return mdxContent ? (
+            <section key={`content_body-${i}`} aria-label="About our services" className="cb-section">
+              <div className="cb-inner">{mdxContent}</div>
+            </section>
+          ) : null;
         }
 
         const sectionVariants = SECTION_MAP[section];
