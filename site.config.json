@@ -1,6 +1,6 @@
 {
   "business_name": "2B Construction LLC",
-  "tagline": "North Idaho Excavation & Septic Specialists",
+  "tagline": "",
   "wp_title_tagline": "",
   "owner_name": "",
   "domain": "www.2bconstruction208.com",
@@ -17,8 +17,8 @@
   "license": "",
   "gbp_primary_category": "Excavating contractor",
   "emergency_available": false,
-  "hours": "Mon–Fri 7am–6pm, Sat 8am–12pm",
-  "meta_description_default": "2B Construction LLC serves North Idaho with excavation, septic, and site prep services. Based in Athol, ID — call for a free estimate.",
+  "hours": "",
+  "meta_description_default": "",
   "stats": {
     "years_in_business": null,
     "jobs_completed": null,
@@ -31,7 +31,6 @@
     "instagram": null,
     "google": null
   },
-  "primary_color": "#d97706",
   "hubs": [],
   "services": [],
   "service_areas": [
@@ -51,5 +50,118 @@
   "differentiators": [],
   "process_steps": [],
   "testimonials": [],
-  "gallery_items": []
+  "gallery_items": [],
+  "primary_color": "#e8520a",
+  "design_blueprint": {
+    "design_persona": "technical-authority",
+    "positioning_snapshot": {
+      "who": "Veteran-owned, 35-year civil construction expert running a 4-person septic and excavation crew that specializes in technically challenging lakefront and hillside installs across Kootenai and Bonner Counties",
+      "competing_against": "Pumping-focused companies (CDA Septic Systems, Little Stinker) with shallow install content and no demonstrated expertise in complex terrain systems",
+      "differentiator": "Tilt rotator-equipped excavator for precision on steep/tight lots, licenses for both simple and complex septic systems plus public works, and concrete-only tank specification — no local competitor combines this equipment, licensing depth, and terrain specialization"
+    },
+    "competitive_design_strategy": {
+      "competitors_are": "Pumping companies with basic brochure sites, no technical content, no equipment photography, no terrain-specific messaging — they look like generic service listings, not installation authorities",
+      "we_should_be": "The only site in the two-county area that looks and reads like a septic engineering authority — structured, technical, equipment-forward, with educational depth that makes pumping-company competitors look like they dabble in installs",
+      "avoid_matching": [
+        "Generic septic clip art or cartoon tank graphics competitors use",
+        "Thin service descriptions with no technical specificity",
+        "Pumping-company visual language — hose trucks, pump-out imagery",
+        "Casual small-business aesthetic with no credential signals",
+        "Stock photos of suburban homes or generic dirt work"
+      ]
+    },
+    "visual_direction": {
+      "tone": "technical",
+      "visual_weight": "balanced",
+      "trust_style": "credentials-first",
+      "cta_tone": "consultative",
+      "spacing_density": "normal"
+    },
+    "constraints": {
+      "hero_must_include": [
+        "credentials_visible",
+        "primary_service_named",
+        "location_signal",
+        "project_photo"
+      ],
+      "proof_above_fold": true,
+      "cta_style": "consultation-first",
+      "forbidden_patterns": [
+        "centered_minimal_hero",
+        "icon_only_service_grid",
+        "warm_cream_lifestyle_palette",
+        "corporate_blue_palette",
+        "generic_stock_landscape",
+        "proof_below_fold",
+        "long_hero_subhead",
+        "symmetric_three_column_layout"
+      ]
+    },
+    "layout_sequence": [
+      {
+        "section": "hero",
+        "variant": "full_bleed_project",
+        "priority": "high",
+        "notes": "Tilt rotator on a steep lakefront lot — equipment on difficult terrain is the instant credibility signal no competitor can replicate"
+      },
+      {
+        "section": "trust_bar",
+        "variant": "certs_plus_reviews",
+        "priority": "high",
+        "notes": "Complex septic license, public works license, general contractor license, veteran-owned badge — licensing density is the competitive weapon"
+      },
+      {
+        "section": "services",
+        "variant": "featured_plus_list",
+        "priority": "high",
+        "notes": "Septic installation featured large with real job photography; excavation and utility services listed below — mirrors 90% revenue hierarchy"
+      },
+      {
+        "section": "content_body",
+        "variant": "mdx",
+        "priority": "medium",
+        "notes": "MDX body from content engine"
+      },
+      {
+        "section": "process",
+        "variant": "numbered_steps",
+        "priority": "high",
+        "notes": "Site evaluation through final inspection — educates transplants and first-time septic owners who have no idea what installation involves"
+      },
+      {
+        "section": "cta",
+        "variant": "consultation_request",
+        "priority": "high",
+        "notes": "Schedule a site evaluation — consultative language matches premium pricing and technical authority positioning"
+      },
+      {
+        "section": "social_proof",
+        "variant": "featured_plus_grid",
+        "priority": "medium",
+        "notes": "Lead with a builder or concrete contractor endorsement if available — downstream trade validation is unique proof no competitor has"
+      },
+      {
+        "section": "cta",
+        "variant": "form_plus_phone",
+        "priority": "high",
+        "notes": "Form for project details plus phone for ready-to-talk prospects — dual path captures both research-stage transplants and urgent replacements"
+      },
+      {
+        "section": "service_areas",
+        "variant": "text_list",
+        "priority": "low",
+        "notes": "North Idaho service area cities"
+      }
+    ],
+    "design_risk_flags": [
+      "Editorial serif fonts (Playfair, Fraunces) read as lifestyle or design blog — 2B is a dirt-and-concrete operation on steep hillsides, not a design studio. Use a structured sans-serif that signals engineering precision.",
+      "Warm or earthy palettes (tans, creams, sage greens) will make the site blend with generic landscaping companies — 2B needs to read as heavy civil and technical septic, not outdoor living. Use a cooler, more industrial palette.",
+      "Owner-personality-first hero would be wrong despite the compelling veteran story — the differentiator is equipment and licensing depth, not personal charm. Tyler's story belongs in the differentiation section, not the hero.",
+      "The tilt rotator is not just a piece of equipment — it is the single most visually distinctive asset 2B owns. It must appear in actual job site photography on the homepage, not described in text alone. If no real photo exists, this is a critical content gap to flag.",
+      "First-time septic owner education is the conversion strategy, not a nice-to-have — the process section must be written for someone who has never seen a septic system, not for contractors. Language like 'perc test' or 'drainfield' needs plain-English explanation inline.",
+      "Do not let excavation services visually compete with septic on the homepage — septic is 90% of revenue and the entire keyword strategy. Excavation appears but must be clearly secondary in visual weight and page position.",
+      "Concrete contractor endorsements (downstream trade validation) are a rare and powerful proof point — if any testimonial or quote exists from a concrete contractor praising 2B's foundation prep, it must be visually prominent, not buried in a testimonial carousel.",
+      "The service area includes lakefront communities (Hayden Lake, Priest Lake, Coeur d'Alene Lake) — these specific lake names must appear as location signals, not just 'Kootenai and Bonner Counties.' Lakefront property owners search by lake name, not county."
+    ]
+  }
 }
