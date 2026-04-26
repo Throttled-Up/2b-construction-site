@@ -53,7 +53,7 @@
   "gallery_items": [],
   "primary_color": "#e8520a",
   "design_blueprint": {
-    "design_persona": "technical-authority",
+    "design_persona": "volume-service",
     "positioning_snapshot": {
       "who": "Veteran-owned, 35-year civil construction expert running a 4-person septic and excavation crew that specializes in technically challenging lakefront and hillside installs across Kootenai and Bonner Counties",
       "competing_against": "Pumping-focused companies (CDA Septic Systems, Little Stinker) with shallow install content and no demonstrated expertise in complex terrain systems",
@@ -100,21 +100,21 @@
     "layout_sequence": [
       {
         "section": "hero",
-        "variant": "full_bleed_project",
+        "variant": "storm_urgency",
         "priority": "high",
-        "notes": "Tilt rotator on a steep lakefront lot — equipment on difficult terrain is the instant credibility signal no competitor can replicate"
+        "notes": "Storm urgency — dramatic full-bleed, urgency overlay"
       },
       {
         "section": "trust_bar",
-        "variant": "certs_plus_reviews",
+        "variant": "stats_only",
         "priority": "high",
-        "notes": "Complex septic license, public works license, general contractor license, veteran-owned badge — licensing density is the competitive weapon"
+        "notes": "Stats only — fast read, no cert clutter"
       },
       {
         "section": "services",
-        "variant": "featured_plus_list",
+        "variant": "service_bands",
         "priority": "high",
-        "notes": "Septic installation featured large with real job photography; excavation and utility services listed below — mirrors 90% revenue hierarchy"
+        "notes": "Equal weight bands — all services at parity"
       },
       {
         "section": "content_body",
@@ -125,32 +125,26 @@
       {
         "section": "process",
         "variant": "numbered_steps",
-        "priority": "high",
-        "notes": "Site evaluation through final inspection — educates transplants and first-time septic owners who have no idea what installation involves"
-      },
-      {
-        "section": "cta",
-        "variant": "consultation_request",
-        "priority": "high",
-        "notes": "Schedule a site evaluation — consultative language matches premium pricing and technical authority positioning"
+        "priority": "medium",
+        "notes": "Process steps"
       },
       {
         "section": "social_proof",
-        "variant": "featured_plus_grid",
-        "priority": "medium",
-        "notes": "Lead with a builder or concrete contractor endorsement if available — downstream trade validation is unique proof no competitor has"
+        "variant": "volume_with_metrics",
+        "priority": "high",
+        "notes": "Volume metrics — jobs completed, response time, coverage"
       },
       {
         "section": "cta",
-        "variant": "form_plus_phone",
+        "variant": "emergency_dual",
         "priority": "high",
-        "notes": "Form for project details plus phone for ready-to-talk prospects — dual path captures both research-stage transplants and urgent replacements"
+        "notes": "Emergency dual CTA — call + form side by side, urgency tone"
       },
       {
         "section": "service_areas",
         "variant": "text_list",
         "priority": "low",
-        "notes": "North Idaho service area cities"
+        "notes": "Service area cities"
       }
     ],
     "design_risk_flags": [
