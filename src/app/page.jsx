@@ -48,10 +48,10 @@ const SECTION_MAP = {
     insurance_steps: (c) => <ProcessSteps config={c} variant="insurance_steps" />,
   },
   social_proof: {
-    pull_quote_trio:     (c) => <Testimonials config={c} variant="pull_quote_trio" />,
-    featured_plus_grid:  (c) => <Testimonials config={c} variant="featured_plus_grid" />,
-    neighborhood_quotes: (c) => <Testimonials config={c} variant="neighborhood_quotes" />,
-    volume_with_metrics: (c) => <Testimonials config={c} variant="volume_with_metrics" />,
+    pull_quote_trio:     (c) => <Testimonials testimonials={c.testimonials ?? []} config={c} variant="pull_quote_trio" />,
+    featured_plus_grid:  (c) => <Testimonials testimonials={c.testimonials ?? []} config={c} variant="featured_plus_grid" />,
+    neighborhood_quotes: (c) => <Testimonials testimonials={c.testimonials ?? []} config={c} variant="neighborhood_quotes" />,
+    volume_with_metrics: (c) => <Testimonials testimonials={c.testimonials ?? []} config={c} variant="volume_with_metrics" />,
   },
   cta: {
     phone_banner:         (c) => <PhoneBanner config={c} />,
