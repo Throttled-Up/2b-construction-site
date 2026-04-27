@@ -73,7 +73,7 @@ const DEFAULT_SEQUENCE = [
   { section: 'hero',         variant: 'full_bleed_project' },
   { section: 'trust_bar',    variant: 'certs_plus_reviews' },
   { section: 'services',     variant: 'service_bands' },
-  { section: 'content_body', variant: 'mdx' },
+  { section: 'owner_story',  variant: 'story_block' },
   { section: 'process',      variant: 'numbered_steps' },
   { section: 'social_proof', variant: 'pull_quote_trio' },
   { section: 'service_areas', variant: 'text_list' },
