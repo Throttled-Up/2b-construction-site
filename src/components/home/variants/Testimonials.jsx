@@ -521,7 +521,7 @@ function VolumeWithMetrics({ items, config }) {
 
         <div className="vwm-header">
           <p className="vwm-eyebrow">Verified Reviews</p>
-          <h2 className="vwm-heading">What DFW homeowners say about the process</h2>
+          <h2 className="vwm-heading">What {config?.city ?? 'local'} homeowners say about the process</h2>
         </div>
 
         {/* Metric anchors */}

@@ -202,9 +202,9 @@
       },
       {
         "section": "cta",
-        "variant": "emergency_dual",
+        "variant": "phone_banner",
         "priority": "high",
-        "notes": "Emergency dual CTA — call + form side by side, urgency tone"
+        "notes": "Direct call CTA — excavation/septic customers call, not form-fill"
       },
       {
         "section": "service_areas",
