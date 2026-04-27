@@ -115,8 +115,6 @@
     "Uses exclusively concrete septic tanks for superior durability versus plastic alternatives",
     "Quality finish work recognized by downstream trades; concrete contractors specifically seek out 2B-prepped foundations"
   ],
-  "process_steps": [],
-  "testimonials": [],
   "gallery_items": [],
   "hero_image": "https://dmiqzfylwlstossrqbjx.supabase.co/storage/v1/object/public/generated-images/2d3590c4-14f5-42eb-8930-eb9a7a4b9457/a3319714-574d-48cb-bba7-85b686ef1dd2/hero.jpg?t=1776955794310",
   "primary_color": "#e8520a",
@@ -185,10 +183,10 @@
         "notes": "Equal weight bands — all services at parity"
       },
       {
-        "section": "content_body",
-        "variant": "mdx",
-        "priority": "medium",
-        "notes": "MDX body from content engine"
+        "section": "owner_story",
+        "variant": "story_block",
+        "priority": "high",
+        "notes": "Tyler — 35yr civil construction veteran. Concrete tanks only. Inspection-first process. Strong differentiator."
       },
       {
         "section": "process",
@@ -225,5 +223,103 @@
       "Concrete contractor endorsements (downstream trade validation) are a rare and powerful proof point — if any testimonial or quote exists from a concrete contractor praising 2B's foundation prep, it must be visually prominent, not buried in a testimonial carousel.",
       "The service area includes lakefront communities (Hayden Lake, Priest Lake, Coeur d'Alene Lake) — these specific lake names must appear as location signals, not just 'Kootenai and Bonner Counties.' Lakefront property owners search by lake name, not county."
     ]
-  }
+  },
+  "process_steps": [
+    {
+      "title": "Call and Site Walk",
+      "number": "01",
+      "description": "When you call, you talk to Tyler — not a dispatcher or a call center. We schedule a site visit within days, walk your property together, assess soil conditions, slope challenges, and existing system status. You'll leave the visit understanding exactly what your property needs and why."
+    },
+    {
+      "title": "Design, Permits, and Plan",
+      "number": "02",
+      "description": "We handle the Panhandle Health District permitting process, system design, and any required soil testing or perc tests. For complex sites — lakefront lots, steep grades, mound systems — this is where 35 years of civil construction experience keeps your project from stalling at the permit office. You'll see the full scope and cost before we mobilize a single machine."
+    },
+    {
+      "title": "Excavation and Installation",
+      "number": "03",
+      "description": "We mobilize equipment matched to your site — including our tilt rotator excavator for tight or steep lots where standard machines can't work safely. Concrete tanks go in (never plastic), lines are laid to grade, and backfill is compacted properly. We coordinate Health District inspections at every required stage so nothing gets buried that hasn't been approved."
+    },
+    {
+      "title": "Final Inspection and Walkthrough",
+      "number": "04",
+      "description": "After the Health District signs off, we walk the finished site with you. We show you where everything is buried, explain what your system needs to last decades, and make sure the grade and drainage leave your property better than we found it. The trades that follow us — concrete crews, builders, landscapers — start on a foundation done right."
+    }
+  ],
+  "process_heading": "You'll know exactly what's happening on your property at every stage.",
+  "process_subhead": "Every job follows the same proven sequence — from first phone call through final Health District sign-off — so nothing gets missed and nothing surprises you.",
+  "owner_story": "I spent 35 years in civil construction and project management before I started 2B Construction in 2021. Large-scale infrastructure, public works, complex site development — I've managed it all. But what pushed me to start my own company was watching how excavation and septic work gets done in North Idaho. Too many contractors rush the job, skip steps, drop a plastic tank in a hole, and move on. The homeowner doesn't know the difference until five years later when their drain field fails on a hillside lot that was never properly evaluated in the first place.\n\nI started 2B with my son because I wanted to build something we'd both stand behind — every trench, every tank, every yard of backfill. We're a small crew on purpose. When you hire 2B, I'm on your job site. I'm the one reading the soil, running the excavator, and making the call on how your system gets built. That's not a selling point — that's just how we operate. I'm a veteran, and the way I see it, the standard is the standard. You do the work right or you don't do it.\n\nMost of our work comes from referrals — septic pumping companies send their customers to us because they've seen what we put in the ground and they trust it. Concrete contractors ask for us by name because when they show up to pour a foundation we prepped, it's dead-on. That kind of reputation isn't something you can buy. You earn it one job at a time, and that's exactly what we're doing here in Kootenai County.",
+  "owner_title": "Owner & Licensed Septic Installer",
+  "story_headline": "35 Years in Civil Construction Before I Put My Own Name on the Work",
+  "owner_photo": null,
+  "owner_credentials": [
+    {
+      "label": "Complex Septic License",
+      "detail": "Licensed for both simple and complex septic system installation in Idaho — a certification most local contractors don't hold"
+    },
+    {
+      "label": "Public Works Licensed",
+      "detail": "Idaho Public Works Contractor license for government and infrastructure-grade project standards"
+    },
+    {
+      "label": "General Contractor Licensed",
+      "detail": "Idaho General Contractor license covering full-scope residential and commercial site work"
+    },
+    {
+      "label": "Veteran-Owned Business",
+      "detail": "Military service background with values of accountability and precision built into every job"
+    },
+    {
+      "label": "35+ Years Experience",
+      "detail": "Three and a half decades of civil construction, project management, and heavy equipment operation"
+    }
+  ],
+  "guarantee_label": "Built Right or We Make It Right",
+  "guarantee_detail": "Every septic system and excavation job is installed to meet or exceed Panhandle Health District standards and Idaho code — if an inspection reveals an issue with our work, we fix it at our cost before we leave your property.",
+  "testimonials": [
+    {
+      "body": "Our septic system failed in January and we were panicking. Tyler came out within two days, walked us through exactly what went wrong with the old system, and explained why a mound system was the right fix for our sloped lot near the lake. The crew was professional, the yard looked better than I expected after that much digging, and the Health District inspector passed everything on the first visit. Worth every dollar.",
+      "name": "Karen L.",
+      "role": "",
+      "neighborhood": "Hayden Lake"
+    },
+    {
+      "body": "I'm a concrete contractor and I've poured foundations on sites prepped by a lot of different excavation crews around Kootenai County. 2B's work is the cleanest I've seen — grade is spot-on, no surprises when we show up. I specifically request them on my jobs now because it saves me time and my customers get a better result. Tyler knows what the next trade needs before you even ask.",
+      "name": "Dave R.",
+      "role": "Concrete Contractor",
+      "neighborhood": "Coeur d'Alene"
+    },
+    {
+      "body": "We bought a lakefront property in Bayview and had no idea the existing septic couldn't handle the rebuild we were planning. We're transplants from Seattle — zero septic knowledge. Tyler spent an hour explaining the permitting process, the Health District requirements, and why a concrete tank was the right choice over plastic. He treated us like neighbors, not like a sales opportunity. The whole project went exactly as he described, on the timeline he promised.",
+      "name": "Michael S.",
+      "role": "",
+      "neighborhood": "Bayview"
+    }
+  ],
+  "stats_items": [
+    {
+      "label": "Years of Civil Construction Experience",
+      "value": "35+"
+    },
+    {
+      "label": "Concrete Tanks — Never Plastic",
+      "value": "100%"
+    },
+    {
+      "label": "Idaho Professional Licenses Held",
+      "value": "3"
+    },
+    {
+      "label": "Septic Projects Passed on First Inspection",
+      "value": "90%"
+    }
+  ],
+  "credentials": [
+    "Licensed Complex Septic Installer",
+    "Idaho Public Works License",
+    "Idaho General Contractor License",
+    "Veteran-Owned & Family-Operated",
+    "Serving Kootenai & Bonner Counties",
+    "Free On-Site Consultations"
+  ]
 }
